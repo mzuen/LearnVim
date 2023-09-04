@@ -1,4 +1,4 @@
-# LearnVim
+# Learn.Vim
 Learning vim step by step
 
 Multi-window
