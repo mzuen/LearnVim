@@ -1,5 +1,5 @@
 # LearnVim
-learning vim step by step
+Learning vim step by step
 
 Multi-window
 ---
